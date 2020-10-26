@@ -6,9 +6,7 @@ let m = moment();
 //displaying current date
 $("#currentDay").text(m.format('MMMM Do YYYY')); 
 
-
 //saving to local storage
-
 var userInput = document.getElementsByClassName('.description');
 var saveBtn = document.getElementsByClassName(".saveBtn");
 var hours = ["8", "9", "10", "11", "12", "1", "2", "3", "4", "5"]
@@ -46,8 +44,7 @@ function saveRow (buttonName) {
 
 //time block row background color update
 function hourUpdate() {
-
-
+    //creating a variable that houses moment.js to provide the current time
     var thisHour = parseInt(moment().format("HH"));
     
     //testing different times

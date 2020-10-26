@@ -12,6 +12,8 @@ The purpose of this project was to get more experience working with Javascript a
 
 To access the daily planner, please click on the leak below. No specific requirements to run application. Will need a code editing software such as VS Coding Studio to work on any updates or additions.
 
+https://dbailey11.github.io/devs_daily_planner/
+
 ## Skills
 
 ![badges](https://img.shields.io/badge/<SKILLS>-<JAVASCRIPT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)

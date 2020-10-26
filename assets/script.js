@@ -45,10 +45,6 @@ function saveRow (buttonName) {
 }
 
 //time block row background color update
-
-
-
-
 function hourUpdate() {
 
 

@@ -6,7 +6,7 @@ The purpose of this project was to get more experience working with Javascript a
 
 ### Screenshots
 
-![Image of password generator application](assets\images\devs_daily_planner_screenshot.png)
+![Image of daily planner application](assets/images/devs_daily_planner_screenshot.png)
 
 ## Installation
 
